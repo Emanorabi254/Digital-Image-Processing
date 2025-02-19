@@ -38,5 +38,5 @@ The **Digital Image Processing** course aims to:
 ## 📫 Contact
 -For any questions or suggestions, feel free to reach out:
 
--**Email**: Emanorabi254@gmail.com
--**GitHub**: https://github.com/Emanorabi254
+- **Email**: Emanorabi254@gmail.com
+- **GitHub**: https://github.com/Emanorabi254
